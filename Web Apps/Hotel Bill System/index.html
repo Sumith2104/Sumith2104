@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hotel Management System</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+</head>
+<body>
+
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Hotel Menu</h1>
+  <div id="menu">
+    <h2>Starters</h2>
+    <ul id="starters"></ul>
+    <h2>Drinks</h2>
+    <ul id="drinks"></ul>
+    <h2>Non-Veg Meals</h2>
+    <ul id="nonveg"></ul>
+    <h2>Veg Meals</h2>
+    <ul id="veg"></ul>
+  </div>
+  <button onclick="generateBill()">Generate Bill</button>
+  <div id="total-bill"></div>
+  <div id="selected-items"><h2>Selected Items</h2></div>
+
+  <div id="qr-modal">
+    <div id="qr-content">
+      <h2>Scan to Pay</h2>
+      <div id="qr-code"></div>
+      <button onclick="closeModal()">Close</button>
+    </div>
+  </div>
+
+      <script src="script.js"></script>
+</body>
+</html>
