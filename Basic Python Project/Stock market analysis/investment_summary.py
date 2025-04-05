@@ -1,5 +1,6 @@
 import pandas as pd
 import yfinance as yf
+import gc
 
 try:
     stocks = pd.read_csv('stocks.csv')
@@ -56,3 +57,4 @@ if investment_data:
 else:
     print("No data to save.")
 
+gc.collect()
