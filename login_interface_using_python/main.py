@@ -4,6 +4,7 @@ import pandas as pds
 import gc
 import account_cnf_mail
 import os
+import random
 
 def reg_c():
     final_data_set = []
