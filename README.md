@@ -61,8 +61,8 @@ Here are a few projects I’m proud of:
 
 I'm always open to collaboration, mentorship, or freelance opportunities. Feel free to reach out!
 
-- 📧 Email: [sumith.official999@gmail.com](mailto:sumith.official999@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sumith-u](https://www.linkedin.com/in/sumith-u) *(add your actual LinkedIn)*  
+- 📧 Email: [Gmail.me](mailto:sumithsumith4567890@gmail.com)  
+- 💼 LinkedIn: [Linked.me]([https://www.linkedin.com/in/sumith-u](https://www.linkedin.com/in/sumith-u-141b85317/))
 - 🌐 Portfolio: *Coming soon!*  
 
 ---
