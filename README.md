@@ -16,11 +16,11 @@ Currently, I’m diving deep into **Data Science** while expanding my knowledge 
 
 ## 🛠️ Tech Stack & Tools
 
-- **Languages:** Python, C, HTML, CSS, JavaScript, SQL  
+- **Languages:** Python, HTML, CSS, JavaScript, SQL  
 - **Frameworks & Libraries:** Flask, Tailwind CSS  
 - **Tools:** Git, GitHub, AWS Amplify, VS Code  
 - **Database:** MySQL, SQLite  
-- **Other Skills:** Project Management, ATS Resume Optimization, UI/UX Design
+- **Other Skills:** Project Management, ATS Resume Optimization
 
 ---
 
