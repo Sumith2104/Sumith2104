@@ -10,7 +10,7 @@
 
 I'm a curious and self-driven tech enthusiast from Karnataka 🇮🇳. I started my journey in programming during my diploma, where I discovered my passion for coding by winning a coding challenge 🏆. Since then, I’ve built multiple real-world projects ranging from bill generators to AI-powered applications.
 
-Currently, I’m diving deep into **Data Science** while expanding my knowledge in **C programming** for core computer science fundamentals. I'm also exploring **freelancing**, project management, and full-stack development.
+Currently, I’m diving deep into **Data Science** while expanding my knowledge in **Python programming** for core computer science fundamentals. I'm also exploring **freelancing**, project management, and full-stack development.
 
 ---
 
@@ -29,7 +29,7 @@ Currently, I’m diving deep into **Data Science** while expanding my knowledge 
 - Data Science (Weekly Study Plan in Progress)  
 - Building AI-Powered Projects  
 - Structured Query Language (SQL) – Recently Completed ✅  
-- C Programming (For DSA and CS Core)  
+- Advance Python Programming (For DSA and CS Core)  
 - Resume Optimization for Tech Roles  
 
 ---
