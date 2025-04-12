@@ -21,4 +21,4 @@ file = ""
 heading = []
 mode = 'r'
 
-#Dataset.disp_info(#file, #mode, #heading)
+Dataset.disp_info(file, mode, heading)
