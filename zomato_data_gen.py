@@ -35,7 +35,8 @@ def zomato_data(file_name, num_records):
         data.append(inp_for_list)
 
     df = pandas.DataFrame(data, columns=["order_id","orderDate","customer_id","Restaurant_ID","Food_item","quantity","deliver_status","payment_method"])
-    # df = pandas.DataFrame(data)
     df.to_csv(file_name,mode = 'a', index=False, chunksize=10000)
     gc.collect()
     exit("Done")
+
+#private
