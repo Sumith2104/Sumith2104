@@ -12,20 +12,23 @@ I’m actively deepening my expertise in **Cloud Computing**, **Machine Learning
 
 ## 🛠️ Tech Stack  
 
-**Languages:**  
+### 💻 Languages  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
-**Frontend:**  
+### 🎨 Frontend  
 ![NextJS](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
 
-**Backend & DB:**  
+### ⚙️ Backend & Databases  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
-**Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)
+### ☁️ Cloud & Deployment  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Replit](https://img.shields.io/badge/-Replit-F26207?logo=replit&logoColor=white)
 
-**Tools:**  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+### 🛠 Development Tools  
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) ![MySQL Workbench](https://img.shields.io/badge/-MySQLWorkbench-4479A1?logo=mysql&logoColor=white) ![Cursor](https://img.shields.io/badge/-Cursor-000000?logo=cursor&logoColor=white)
+
+### 🧠 AI & Data Science Tools  
+![Anaconda](https://img.shields.io/badge/-Anaconda-44A833?logo=anaconda&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white)
 
 ---
 
