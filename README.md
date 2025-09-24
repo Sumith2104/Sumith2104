@@ -1,80 +1,75 @@
 # 👋 Hi, I'm Sumith U.
 
-## 🚀 About Me
-I'm a passionate **Full Stack Developer** and an aspiring **Data Scientist** from India 🇮🇳, currently pursuing **B.Tech in CSE (AI & ML)** at **Reva University**. I specialize in building modern web applications with clean UI, backend integrations, and automation workflows.
+## 🚀 About Me  
+I'm a passionate **Full Stack Developer** and an aspiring **AI Engineer** from India 🇮🇳, currently pursuing **B.Tech in CSE (AI & ML)** at **Reva University**.  
 
-I believe in **learning by building**, and my projects reflect my passion for technology, coding, and solving real-world problems. I'm actively working on expanding my expertise in **Cloud, AI, Machine Learning, and Automation**.
+I specialize in building **scalable web applications**, **automation workflows**, and **AI-driven tools**. My philosophy is simple:  
+> **Learn. Build. Deploy. Iterate.**  
+
+I’m actively deepening my expertise in **Cloud Computing**, **Machine Learning**, and **Product Engineering**, with a goal to bridge the gap between **AI research** and **real-world applications**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
 **Languages:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 
 **Frontend:**  
-![NextJS](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![NextJS](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)  
 
 **Backend & DB:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask) ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 **Cloud & DevOps:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black) ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white) 
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white) ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=black)
 
 **Tools:**  
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ-000000?logo=intellijidea&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white) ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
 ---
 
-## 🏗️ Featured Projects
+## 🏗️ Featured Projects  
 
-| Project                         | Description                                                                                          | Tech Stack                                     |
-| ------------------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------------------- |
-| **GymTrack Lite**                | A modern gym membership and attendance management web app with QR check-in, email, analytics.      | Next.js, Tailwind, Supabase, AWS, Node, SQL    |
-| **Student Attendance System**    | Java-based desktop app with MySQL backend for managing student attendance with present/absent.     | Java, MySQL, IntelliJ                          |
-| **Barcode Attendance with AI**   | Upgraded attendance system integrating barcode + face recognition for secure check-ins.            | Python, OpenCV, Tkinter, MySQL                 |
-| **Automatic Bill Generator**     | Simple billing software for small businesses to auto-generate item-wise bills and payments.        | Python, Tkinter                                |
-| **Local Cloud Backup Service**   | Diploma project to backup local files on a private cloud network.                                  | Python, Flask                                  |
-| **AI Voting Technology**         | Voting system with Aadhaar detection, face recognition, OTP validation, and secure vote casting.   | Python, OpenCV, Tkinter, SQL                   |
-| **Hotel Management App**         | Web app for quick hotel bill generation with UPI QR payment integration.                           | HTML, CSS, JavaScript, Python                  |
-| **Train Ticket Booking UI**      | Simple UI for train ticket booking system designed in Python.                                      | Python, Tkinter                                |
-
----
-
-## 🧑‍💻 Freelance Projects
-
-| Project                                   | Client Description                                                                                             | Tech Stack                                  |
-| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| **GymTrack Lite (Commercial Deployment)** | Fully deployed for a real gym with live QR-based check-ins, automated emails, member management & analytics.  | Next.js, AWS RDS, Lambda, API Gateway, SQL  |
-| **Student Attendance Management System**  | Desktop software for an academic institute with subject-wise attendance, checkboxes, and reporting.           | Java, MySQL                                 |
-| **Offline Hotel Billing Software**        | A simple desktop app for small-scale hotels with item-wise billing and instant UPI QR generation.             | Python, Tkinter                             |
-| **Custom QR Attendance for Institutes**   | Tailored QR-based attendance software with admin panel for schools & colleges.                                | Python, OpenCV, Flask, MySQL                |
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| **FluxBase** | AI-powered, browser-based data management platform — a hybrid of spreadsheets + database client with drag-and-drop tables, AI insights, and zero backend setup. | React, Next.js, Tailwind, IndexedDB |
+| **GymTrack Lite** | SaaS platform for gyms – includes **admin dashboard**, **QR check-in system**, **real-time analytics**, and **automated email workflows**. | Next.js, Tailwind, Supabase, AWS, Node |
+| **Member Hub (GymTrack)** | Mobile-first PWA for gym members with digital QR ID, class bookings, workout logs, and announcements. | Next.js, Supabase, PWA |
+| **Superadmin Portal** | Centralized control panel for managing multiple gyms, requests, analytics, and platform-wide settings. | Next.js, Supabase |
+| **AI-Powered Dating App** | Modern swipe-based dating app with **animated UI**, **real-time chat**, and **Supabase-backed authentication**. | Next.js, Framer Motion, Supabase |
+| **AI Chatbot Platform** | Full-stack chatbot app with **secure login**, **chat history storage**, and **Supabase integration**. | Next.js, Supabase |
+| **Barcode + AI Attendance** | Face recognition + barcode-based secure check-in. | Python, OpenCV, MySQL |
+| **Hotel Management App** | Hotel billing web app with UPI QR code payments. | HTML, JS, Python |
 
 ---
 
-## 🎯 Future Workflow & Career Roadmap
+## 🧑‍💻 Freelance & Commercial Work  
 
-- 🔥 **Freelancing:** Offering web development, automation, and backend solutions.  
-- ☁️ **Cloud Native Development:** Moving towards AWS Lambda, API Gateway, DynamoDB, and RDS.  
-- 🧠 **AI & Data Science:** Learning machine learning, data analysis, model deployment, and MLOps.  
-- 📱 **Cross-Platform Development:** Exploring mobile app development using React Native or Tauri.  
-- 🔗 **Open Source:** Actively contributing to open-source projects and building community-driven tools.  
-- 💼 **Career Goal:** Become a **Full Stack Data Scientist**, combining web development + AI + automation.
+| Project | Highlights | Tech Stack |
+|--------|-------------|------------|
+| **GymTrack Lite (Live Deployment)** | Running in production for a real gym with hundreds of check-ins per week. | Next.js, AWS, RDS, Lambda |
+| **Custom QR Attendance Systems** | Built & deployed multiple custom attendance solutions for schools/colleges. | Flask, OpenCV, MySQL |
+| **Offline Hotel Billing Software** | Lightweight desktop app with instant QR generation. | Python, Tkinter |
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Career Roadmap  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/](https://www.linkedin.com/in/sumith-u-141b85317))  
+- 🧠 **AI & ML:** Expanding into model training, deployment, and MLOps.  
+- ☁️ **Cloud-Native Development:** Serverless workflows using AWS Lambda & API Gateway.  
+- 📱 **Cross-Platform Apps:** Exploring React Native & Tauri for mobile/desktop apps.  
+- 🔗 **Open Source:** Contributing actively and publishing developer-friendly tools.  
+- 💼 **Goal:** Become a **Full Stack AI Engineer** – merging ML models with scalable products.  
+
+---
+
+## 🌐 Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-u-141b85317)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:sumithsumith4567890@gmail.com)  
 
 ---
 
-## ⚡ Fun Fact
-
-> *"If it doesn't automate, optimize, or scale—I'm not interested."*
-
----
-
-⭐️ **_Thank you for visiting!_** If you like my work, give it a ⭐️ and let's connect!
-
+## ⚡ Fun Fact  
+> *"If it doesn't automate, optimize, or scale — I'm not interested."*
