@@ -29,11 +29,24 @@ I’m actively deepening my expertise in **Cloud Computing**, **Machine Learning
 
 ---
 
-## 🏗️ Featured Projects  
+## 🏆 Flagship Project – FluxBase  
+
+> **FluxBase** is my most ambitious and next-level project — a **web-first, AI-powered data management platform** designed to work entirely in the browser but powered by a **dedicated on-premise server** for ultimate control and privacy.  
+
+💡 **Key Highlights:**  
+- 🖥️ **Dedicated Server Only** – cannot run on public/shared cloud. Built for maximum performance & data security.  
+- 🔄 **Hybrid Spreadsheet + Database Client** – drag-and-drop table creation, schema editing, and inline data manipulation.  
+- 🤖 **AI-Powered Queries** – natural language to SQL conversions for filtering, searching, and data insights.  
+- 🔐 **Privacy-Focused & Self-Hosted** – ideal for teams or enterprises needing data sovereignty.  
+
+**Tech Stack:** React, Next.js, TailwindCSS, IndexedDB, Node.js (Dedicated Server), AI API Integrations  
+
+---
+
+## 🏗️ Other Featured Projects  
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| **FluxBase** | AI-powered, browser-based data management platform — a hybrid of spreadsheets + database client with drag-and-drop tables, AI insights, and zero backend setup. | React, Next.js, Tailwind, IndexedDB |
 | **GymTrack Lite** | SaaS platform for gyms – includes **admin dashboard**, **QR check-in system**, **real-time analytics**, and **automated email workflows**. | Next.js, Tailwind, Supabase, AWS, Node |
 | **Member Hub (GymTrack)** | Mobile-first PWA for gym members with digital QR ID, class bookings, workout logs, and announcements. | Next.js, Supabase, PWA |
 | **Superadmin Portal** | Centralized control panel for managing multiple gyms, requests, analytics, and platform-wide settings. | Next.js, Supabase |
